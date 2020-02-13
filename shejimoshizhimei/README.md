@@ -6,7 +6,7 @@
 
 以 23 种设计模式为核心，从面向对象、设计原则、编程规范、代码重构铺开，追本溯源，通过200多个实战案例，一次性全面掌握编写高质量代码的所有知识。
 
-![](https://static001.geekbang.org/resource/image/f3/d3/f3262ef8152517d3b11bfc3f2d2b12d3.png)
+![](../images/designpattern-001.jpg)
 
 ## 目录
 
