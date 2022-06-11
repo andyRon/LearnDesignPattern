@@ -2,7 +2,7 @@
 
 ## 38-总结回顾面向对象、设计原则、编程规范、重构技巧等知识点
 
-![](../images/designpattern-001.jpg)
+![](images/designpattern-001.jpg)
 
 ### 一、代码质量评判标准
 
