@@ -10,6 +10,9 @@ import com.andyron.c09.Showable;
 public abstract class Decorator implements Showable {
     protected Showable showable;
 
+    /**
+     * 构造时注入被装饰者
+     */
     public Decorator(Showable showable) {
         this.showable = showable;
     }
