@@ -37,6 +37,9 @@ public class Shop {
         notifyBuyers();
     }
 
+    /**
+     * 通知所有注册用户
+     */
     private void notifyBuyers() {
         buyers.stream().forEach(b -> b.inform(this.getProduct()));
     }
