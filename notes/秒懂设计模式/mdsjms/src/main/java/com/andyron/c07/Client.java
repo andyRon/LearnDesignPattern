@@ -13,8 +13,8 @@ public class Client {
     }
 
     public static void main(String[] args) {
-//        c1();
-        c2();
+        c1();
+//        c2();
     }
 
 

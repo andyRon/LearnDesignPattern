@@ -3,7 +3,7 @@ package com.andyron.c10;
 /**
  * 适配器类
  */
-public class Adapter implements TriplePin{
+public class Adapter implements TriplePin {
 
     private DualPin dualPinDevice;
 
